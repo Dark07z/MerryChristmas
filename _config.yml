@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /img/logo.png
+        height: 630
+        width: 1200
+google_analytics: UA-118642689-4
